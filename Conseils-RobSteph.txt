@@ -1,0 +1,57 @@
+Bonjour Yassin,
+
+ 
+
+Voici mes premières observations (je sais que c’est un premier brouillon)
+
+ 
+
+Points négatifs :
+
+ 
+
+-          Orthographe
+
+ 
+
+-          Format de texte pas uniforme
+
+ 
+
+-          La description de l’existant n’est pas suffisamment complète pour quelqu’un  de non familiarisé à ce système. Le second schéma l’illustre bien, mais le texte qui accompagne doit être plus complet.
+
+ 
+
+-          Les concepts ne sont pas suffisamment expliqués
+
+ 
+
+-          Java 8 doit être décrit dans les outils comme vaadin et non dans l’implémentation
+
+ 
+
+Points positifs :
+
+-          Références en bas de page et en fin de travail
+
+-          Description des techniques, langages, suffisante
+
+ 
+
+ 
+
+Questions : fonction de login déjà existante dans l’application ?
+
+L’utilisateur ne sait pas supprimer une giplet de sa configuration ? ou modifier les paramètres de la giplet dejà ajoutée ? ànouveau use case
+
+ 
+
+Globalement, c’est un bon premier brouillon
+
+ 
+
+A garder en tête. Si je fourni mon analyse à un autre développeur, sait-il exactement tout ce qui existe (tout ce dont il doit savoir) et tout ce qu’il doit faire de nouveau ?
+
+ 
+
+Voilà, bonne continuation.

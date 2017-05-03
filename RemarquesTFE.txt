@@ -1,0 +1,147 @@
+
+
+Bonjour Yassin,
+
+ 
+
+Comme promis, je me suis penché sur ton TFE
+
+ 
+
+Voici les remarques sur la forme :
+
+ 
+
+J’ai des erreurs de signets dans la table des matières
+
+ 
+
+ 
+
+ 
+
+Faute de frappe p14
+
+« le répertoire loca il »
+
+ 
+
+ 
+
+Faute ?
+
+Les destinataires ayant souscrit à un topic reçoivent les messages dès que celui-ci en reçois.
+
+ 
+
+ 
+
+Mise en forme
+
+d’un accès à une base donneés.L’application GIP
+
+ 
+
+ 
+
+ortho
+
+avoir 2 persistance.xml différente
+
+ 
+
+qui émet dès un faisceau vertical
+
+ 
+
+requierentt
+
+ 
+
+des droits similaire
+
+ 
+
+des giplets disponible.
+
+ 
+
+Ortho
+
+leur donneront des accès spécifique
+
+ 
+
+ortho
+
+les éléments Vaadin reste indépendants
+
+ 
+
+ortho
+
+Les images ci-dessus illustre le contraste
+
+ 
+
+ 
+
+Sur le fond :
+
+ 
+
+Pour ton analyse, c’est un bon début mais elle n’est pas encore aboutie (je sais c’est un brouillon)
+
+ 
+
+Les uses case sont OK mais tu devrais avoir un diagramme de séquence par use case et non un seul car il ne reprend pas tout. Exemple un diagramme de séquence qui exprime ce que fait un suppression
+
+ 
+
+Par rapport à la suppression, je ferai deux use case de suppression, un admin et un utilisateur, car la fonctionnalité est différente mais si le titre est identique. L’admin supprime complement le giplet que l’utilisateur le retire de son dashbord, le système n’effectue pas le même travail dans les deux cas.
+
+ 
+
+Il faudrait peut-être aussi ajouter des uses case tels que :
+
+use case s’authentifier
+
+use case affichage dashboard
+
+use cas spécifique par configuration d’une giplet ?
+
+ 
+
+autre remarque,  les écrans ne correspondent pas au use case.
+
+ 
+
+Dans une analyse, les use case vont donner les grandes fonctions auquel le système doit répondre. Les diagrammes de séquences vont donner, par use case, les différentes étapes entre les acteurs du use case (système/utilisateurs/etc.) Les écrans vont venir en support, ils vont décrire l’interface qui interviendra dans les étapes du diagramme de séquence. Un écran qui apparait mais qui n’est référencé fonctionnellement nulle part, ce n’est pas bon.
+
+Toujours bien penser, si un développeur devait faire le travail avec mon analyse, sans connaitre le projet, serait-ce suffisant à comprendre ce qu’il y a à faire de manière précise ?
+
+Mais pas de stress…il ne manque pas grand-chose et il reste du temps.
+
+ 
+
+ 
+
+Sinon pour la partie technique, c’est bien.
+
+ 
+
+Si tu as des questions, n’hésites pas
+
+ 
+
+Bàt,
+
+Stéphane.
+
+ 
+
+ 
+
+ 
+
+ 
