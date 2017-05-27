@@ -1,0 +1,7 @@
+Refaire le schéma pour la bonne réception du pubsub (diagramme d'activité) 
+Terminer la partie implémentation
+Faire l'introduction
+Faire la conclusion
+Terminer la webographie
+Faire les critiques et suggestions
+Insérer des annexes
