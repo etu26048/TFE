@@ -1,8 +1,5 @@
-Refaire le schéma pour la bonne réception du pubsub (diagramme d'activité) DONE
-Terminer la partie implémentation DONE MAIS RELIRE ET REFAIRE LES PHRASES CORRECTEMENT
-Faire l'introduction
+Relire la partie implémentation
 Faire la conclusion
-Terminer la webographie
+Terminer la webographie 
 Faire les critiques et suggestions
 Insérer des annexes
-Faire les OS
